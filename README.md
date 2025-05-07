@@ -41,9 +41,11 @@ A front-end clone of the Netflix landing page using only **HTML** and **CSS**. T
 
 ```
 NETFLIX_HOME-PAGE-CLONE/
+├── Assets 
 ├── index.html
 ├── style.css
-└── README.md
+├── README.md
+ 
 ```
 
 ---
