@@ -11,7 +11,7 @@ A front-end clone of the Netflix landing page using only **HTML** and **CSS**. T
 
 ## 📺 Live Demo
 
-🔗 [View Live on GitHub Pages](https://yourusername.github.io/netflix-clone)
+🔗 [View Live on GitHub Pages](https://the-rajsahani.github.io/NETFLIX_HOME-PAGE-CLONE/)
 
 ![Netflix Clone Screenshot](https://your-screenshot-url.com/netflix-home.png)
 
