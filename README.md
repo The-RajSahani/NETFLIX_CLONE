@@ -40,7 +40,7 @@ A front-end clone of the Netflix landing page using only **HTML** and **CSS**. T
 ## 📂 Folder Structure
 
 ```
-netflix-clone/
+NETFLIX_HOME-PAGE-CLONE/
 ├── index.html
 ├── style.css
 └── README.md
