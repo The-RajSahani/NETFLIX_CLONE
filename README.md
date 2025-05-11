@@ -57,8 +57,8 @@ To run this project locally:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/netflix-clone.git
-cd netflix-clone
+https://github.com/The-RajSahani/NETFLIX_HOME-PAGE-CLONE.git
+cd NETFLIX_HOME-PAGE-CLONE
 ```
 
 2. Open `index.html` in your browser:
